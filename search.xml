@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>hexo主题</title>
-      <link href="/hexo%E4%B8%BB%E9%A2%98/"/>
-      <url>/hexo%E4%B8%BB%E9%A2%98/</url>
+      <title>hexo与github</title>
+      <link href="/hexo%E4%B8%8Egithub/"/>
+      <url>/hexo%E4%B8%8Egithub/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> -hexo </category>
+          <category> hexo </category>
           
       </categories>
       
@@ -32,7 +32,7 @@
       
       <categories>
           
-          <category> -hexo </category>
+          <category> hexo </category>
           
       </categories>
       
