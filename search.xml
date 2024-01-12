@@ -8,7 +8,7 @@
       <link href="/hexo%E4%B8%8Egithub/"/>
       <url>/hexo%E4%B8%8Egithub/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>hexo部署github：本地git连接配置好后部署 hexo d(hexo deploy)</p><p>github仓库repositority的操作：</p><h1 id="备份、增删操作"><a href="#备份、增删操作" class="headerlink" title="备份、增删操作"></a>备份、增删操作</h1><ol><li><p>git clone -b master<a href="https://github.com/Optimussrc/Optimussrc.github.io.git">https://github.com/Optimussrc/Optimussrc.github.io.git</a>  克隆到本地文件夹(-b branch)</p></li><li><p>修改后将其推入创建的备份reposritory：git push –mirror <a href="https://github.com/Optimussrc/back.git%EF%BC%88%E6%B3%A8%EF%BC%9A%E5%85%88cd%E8%BF%9B%E9%82%A3%E4%B8%AA%E6%96%87%E4%BB%B6%E4%B8%AD%EF%BC%8C%E4%B8%8D%E7%84%B6%E4%BC%9A%E6%8A%A5%E9%94%99%EF%BC%89">https://github.com/Optimussrc/back.git（注：先cd进那个文件中，不然会报错）</a></p></li></ol><p>如果git push出现Everything up-to-date：</p><p>git push      git add .    git commit - m “new”     最后再运行一次 </p><p>删除： git rm -r </p>]]></content>
       
       
       <categories>
